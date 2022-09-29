@@ -56,6 +56,8 @@ body {
 }
 
 .profession {
+ feat-add-job-details2
+    color: #9a47e7;
     color: #8130cc;
     font-size: 20px;
     text-transform: uppercase;
@@ -67,6 +69,8 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
+
+    color: #481d8d;
     color: #4f1466;
     font-size: 20px;
     letter-spacing: 2px;
@@ -95,6 +99,7 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
+     color: #9269d3;
     color: #755f7e;
 }
 
@@ -103,6 +108,7 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
+    color: #af86e6af;
     color: #65686baf;
     font-size: 18px;
     letter-spacing: 1px;
@@ -171,8 +177,9 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
-    padding-bottom: .4rem;
+    color: #5789b3;
+   color: #FDB44B;
+   padding-bottom: .4rem;
 }
 
 .exp-time-period,
@@ -190,6 +197,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+    color: #57aada;
     color: #FDB44B;
     padding-bottom: .4rem;
 }
